@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 💬 About Me:
-- 🏫 Education: Currently puruing my Bachelor's degree in Computer Science at The Honor's College, University of Houston.
+- 🏫 Education: Currently an undergraduate student pursuing a Bachelor's degree in Computer Science at The Honor's College, University of Houston.
 
 
 🌱 My Respoitories:
-Here on my github, you will find a collection of: 
+Here on my github, you will find a collection of...
 - 📚 Past Homework and Group Assignments: A repository of knowledge and experiences gained over my academic journey.
 - 🗒️ Notes: My personal compilation of notes and learning materials.
 - 🛠️ Projects: A collection of individual and collaborative projects, showcasing my practical application of programming skills and problem-solving abilities.
