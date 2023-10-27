@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yla.
 
 <!--
 **officiallyyla/officiallyyla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💬 About Me:
+- I am currently an undergraduate student at The Honor's College at the University of Houston.
+- Majoring in Computer Science.
+
+📫 How to reach me:
