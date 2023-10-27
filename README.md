@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 💬 About Me:
-- I am currently an undergraduate student at The Honor's College at the University of Houston.
-- Majoring in Computer Science.
+- 🏫 Education: Currently puruing my Bachelor's degree in Computer Science at The Honor's College, University of Houston.
+
+
+🌱 My Respoitories:
+Here on my github, you will find a collection of: 
+- 📚 Past Homework and Group Assignments: A repository of knowledge and experiences gained over my academic journey.
+- 🗒️ Notes: My personal compilation of notes and learning materials.
+- 🛠️ Projects: A collection of individual and collaborative projects, showcasing my practical application of programming skills and problem-solving abilities.
+
+ 📫 How to reach me: 
+I'm always open to connecting, learning from others, and exploring new opportunities. Don't hesitate to reach out if you have questions, need help, or want to collaborate on a project!
