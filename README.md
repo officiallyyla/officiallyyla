@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 🌱 My Repository: 
+
 Here on my github, you will find a collection of...
 - 📚 Past Homework and Group Assignments: A repository of knowledge and experiences gained over my academic journey.
 - 🗒️ Notes: My personal compilation of notes and learning materials.
