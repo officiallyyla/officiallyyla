@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 💬 About Me:
 - I am currently an undergraduate student at The Honor's College at the University of Houston.
 - Majoring in Computer Science.
-
-📫 How to reach me:
